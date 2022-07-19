@@ -1,7 +1,7 @@
 public class Wilder {
 
-    String firstname;
-    boolean aware;
+    private String firstname;
+    private boolean aware;
 
     public Wilder(String firstname, boolean aware) {
         this.firstname = firstname;
